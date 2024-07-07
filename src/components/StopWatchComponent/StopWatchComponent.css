@@ -1,0 +1,36 @@
+body{
+  background-image: url('../images/bg-img.jpg');
+}
+
+.stopwatch{
+  /* border: 5px solid white; */
+  border-radius: 30px;
+  padding: 20px;
+  width: 400px;
+  height: auto;
+  box-shadow: 7px 7px 40px 5px black;
+  background-color: rgb(252, 237, 253);
+}
+
+img{
+  width: 80px;
+  height: 80px;
+}
+
+button{
+  margin: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.start-btn{
+  background-color: green;
+}
+
+.stop-btn{
+  background-color: red;
+}
+
+.restart-btn{
+  background-color: lightseagreen;
+}
